@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/webagain/static/css/main.f855e6bc.css",
+    "main.js": "/webagain/static/js/main.c1b54a41.js",
+    "static/js/453.eeb589ec.chunk.js": "/webagain/static/js/453.eeb589ec.chunk.js",
+    "static/media/logo.svg": "/webagain/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/webagain/index.html",
+    "main.f855e6bc.css.map": "/webagain/static/css/main.f855e6bc.css.map",
+    "main.c1b54a41.js.map": "/webagain/static/js/main.c1b54a41.js.map",
+    "453.eeb589ec.chunk.js.map": "/webagain/static/js/453.eeb589ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c1b54a41.js"
+  ]
+}
